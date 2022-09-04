@@ -5,4 +5,4 @@
 - Живу в самом красивом городе России
 - Люблю путешестовать
 - Я начинающий frontend-разрабочик
-  ![](/Users/user/Desktop/DB657E98-D5DC-4E55-9FE9-4B4D7E1043EC_1_105_c.jpeg)
+  ![](/Users/user/Desktop/001.jpeg)
