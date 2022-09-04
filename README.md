@@ -5,4 +5,5 @@
 - Живу в самом красивом городе России
 - Люблю путешестовать
 - Я начинающий frontend-разрабочик
-  ![](https://github.com/LukLena/Aboutme/blob/main/001.jpeg)
+
+![001](https://user-images.githubusercontent.com/106184354/188326652-e99e432b-e10f-4a86-9a7a-39bf70e3f1f8.jpeg)
